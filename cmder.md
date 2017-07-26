@@ -1,6 +1,6 @@
 ### 下载
 
-[Cmder下载](http://cmder.net/)
+<a href="http://cmder.net/" target="_blank">Cmder下载</a>
 
 建议下载full版本
 
